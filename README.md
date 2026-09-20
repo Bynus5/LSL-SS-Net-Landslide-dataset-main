@@ -1,17 +1,27 @@
-# LSL-SS-Net-Landslide Dataset
 
-A composite landslide dataset covering Bijie, Jiuzhaigou, and Taitung.
+# LSL-SS-Net Landslide Dataset
 
-We release a comprehensive landslide dataset comprising full-scene remote sensing imagery, image patches TIFF format, JSON annotations, and corresponding shapefiles.
+## Overview
 
+The **LSL-SS-Net Landslide Dataset** is a composite remote sensing dataset covering three regions: Bijie, Jiuzhaigou, and Taitung.
 
-### Dataset Download
+The dataset comprises full-scene remote sensing imagery, image patches in TIFF format, JSON annotations, and corresponding shapefiles (SHP).
 
-**Baidu Netdisk:** https://pan.baidu.com/s/1CN3H_6oROpf76sD1SQs1iA?pwd=5w6r
+## Dataset Download
 
-**Extraction Code:** `5w6r`
+**Dataset:** `LSL-SS-Net-Landslide_Dataset.zip`
 
-### Citation
+**Baidu Netdisk:** [Download the Dataset](https://pan.baidu.com/s/1pZasNYN5j7lLGZLniC04hg?pwd=1234)
+
+**Extraction Code:** `1234`
+
+**Hugging Face:** [LSL-SS-Net Landslide Dataset](https://huggingface.co/datasets/Byuns5/LSL-SS-Net-Landslide-Dataset/tree/main/)
+
+## Dataset Overview
+
+<img width="800" height="1029" alt="LSL-SS-Net Landslide Dataset Overview" src="https://github.com/user-attachments/assets/61941079-b209-4adf-ac26-033f578b7713" />
+
+## Citation
 
 If you use this dataset in your research, please cite the following paper:
 
