@@ -7,20 +7,6 @@ The **LSL-SS-Net Landslide Dataset** is a composite remote sensing dataset cover
 
 The dataset comprises full-scene remote sensing imagery, image patches in TIFF format, JSON annotations, and corresponding shapefiles (SHP).
 
-## Dataset Download
-
-**Dataset:** `LSL-SS-Net-Landslide_Dataset.zip`
-
-**Baidu Netdisk:** [Download the Dataset](https://pan.baidu.com/s/1pZasNYN5j7lLGZLniC04hg?pwd=1234)
-
-**Extraction Code:** `1234`
-
-**Hugging Face:** [LSL-SS-Net Landslide Dataset](https://huggingface.co/datasets/Byuns5/LSL-SS-Net-Landslide-Dataset/tree/main/)
-
-## Dataset Overview
-
-<img width="800" height="1029" alt="LSL-SS-Net Landslide Dataset Overview" src="https://github.com/user-attachments/assets/61941079-b209-4adf-ac26-033f578b7713" />
-
 ## Citation
 
 If you use this dataset in your research, please cite the following paper:
@@ -45,3 +31,17 @@ Yang, Y., Miao, Z., Li, X., Zhang, H., Chen, S., 2024. LSL-SS-Net: level set los
   doi     = {10.1080/15481603.2024.2416727}
 }
 ```
+
+## Dataset Download
+
+**Dataset:** `LSL-SS-Net-Landslide_Dataset.zip`
+
+**Baidu Netdisk:** [Download the Dataset](https://pan.baidu.com/s/1pZasNYN5j7lLGZLniC04hg?pwd=1234)
+
+**Extraction Code:** `1234`
+
+**Hugging Face:** [LSL-SS-Net Landslide Dataset](https://huggingface.co/datasets/Byuns5/LSL-SS-Net-Landslide-Dataset/tree/main/)
+
+## Dataset Overview
+
+<img width="800" height="1029" alt="LSL-SS-Net Landslide Dataset Overview" src="https://github.com/user-attachments/assets/61941079-b209-4adf-ac26-033f578b7713" />
